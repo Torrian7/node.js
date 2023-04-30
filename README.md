@@ -1,4 +1,3 @@
-# node.js
 # ReadMe Generator 
 ## Table of Contents
 - [ReadMe Generator](#readme-generator)
@@ -6,7 +5,6 @@
   - [Description](#description)
   - [Requirements](#requirements)
   - [Usage](#usage)
-  - [Contributors](#contributors)
   - [Testing](#testing)
 
 ## Description
@@ -16,8 +14,6 @@ Inquirer 8.2.4 (or later)
 ## Usage
 Markdown, JavaScript, Node, JSON
 
-## Contributors
-N/A
 ## Testing
 ```
 N/A
